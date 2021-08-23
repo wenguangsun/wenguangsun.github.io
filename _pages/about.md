@@ -2,23 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Associate Professor of Statistics.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>401W Bridge Hall</p>
+    <p>Marshall School of Business</p>
+    <p>University of Southern California</p>
+    <p>Los Angeles, CA 90089</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Associate Professor of Statistics at the USC Marshall School of Business's Department of Data Sciences and Operations. I completed my PhD in 2008 at the University of Pennsylvania under the supervision of Prof. T. Tony Cai. I obtained my undergraduate degree in 2008 at Peking University, China. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on Large-scale multiple testing, False discovery rate, Selective inference, Empirical Bayes and shrinkage estimation theory, and Statistical decision theory. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also currently serving as the Associate Editor of the Journal of the Royal Statistical Society, Series B (2017-present) and as an Associate Editor of the Journal of Multivariate Analysis (2016-present). 
+
+Currently, I am also the PhD program coordinator for the statistics group at USC Marshall. We welcome applications from highly qualified and motivated students. 
