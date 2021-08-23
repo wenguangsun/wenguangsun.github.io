@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Wen
+first_name: Wenguang
 middle_name: 
 last_name: Sun
 email: wenguans@marshall.usc.edu
@@ -153,8 +153,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Sun
+  first_name: [Wenguang]
 
   style: apa
   locale: en
