@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Associate Professor of Statistics.
+description: Professor of Statistics.
 
 profile:
   align: right
