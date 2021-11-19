@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor of Statistics at the USC Marshall School of Business's Department of Data Sciences and Operations. I completed my PhD in 2008 at the University of Pennsylvania under the supervision of Prof. T. Tony Cai. I obtained my undergraduate degree in 2008 at Peking University, China. 
+I am a Professor of Statistics at the USC Marshall School of Business's Department of Data Sciences and Operations. I completed my PhD in 2008 at the University of Pennsylvania under the supervision of Prof. T. Tony Cai. I obtained my undergraduate degree in 2008 at Peking University, China. 
 
 My research focuses on Large-scale multiple testing, False discovery rate, Selective inference, Empirical Bayes and shrinkage estimation theory, and Statistical decision theory. 
 
