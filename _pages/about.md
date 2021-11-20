@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Professor in the Department of Data Sciences and Operations at the USC Marshall School of Business. I completed my PhD in 2008 at the University of Pennsylvania under the supervision of Prof. T. Tony Cai. I obtained my undergraduate degree in 2008 at Peking University, China. 
+I am Professor in the Department of Data Sciences and Operations ([the Statistics group](http://faculty.marshall.usc.edu/gareth-james/StatGroup/)) in the Marshall School of Business at the University of Southern California (USC). Before coming to USC, I was an assistant professor in the department of Statistics at North Carolina State University (2008-2011). I completed my PhD in 2008 at the University of Pennsylvania under the supervision of Prof. T. Tony Cai. I obtained my undergraduate degree in 2008 at Peking University, China. 
 
-My research focuses on large-scale multiple testing, selective inference, empirical Bayes methods and statistical decision theory. 
+My research focuses on large-scale multiple testing, selective inference, empirical Bayes methods, transfer learning and statistical decision theory. 
 
 I am currently serving as the Associate Editor of Journal of the Royal Statistical Society, Series B (2017-present).
 
