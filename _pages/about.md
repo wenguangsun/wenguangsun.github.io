@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>401W Bridge Hall</p>
-    <p>Marshall School of Business</p>
-    <p>University of Southern California</p>
+    <p>3670 Trousdale Pkwy</p>
     <p>Los Angeles, CA 90089</p>
+    <p>Email: wenguans at marshall.usc.edu</p>
+
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
