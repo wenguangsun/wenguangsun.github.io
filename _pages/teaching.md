@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: This is a list of classes that I have taught in the past years. 
 nav: true
 ---
