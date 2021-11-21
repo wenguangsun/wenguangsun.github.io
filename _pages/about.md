@@ -22,5 +22,4 @@ I am Professor in the Department of Data Sciences and Operations ([the Statistic
 
 My research focuses on large-scale multiple testing, selective inference, empirical Bayes methods, transfer learning and statistical decision theory. 
 
-I am currently serving as the Associate Editor of Journal of the Royal Statistical Society, Series B (2017-present).
-
+This is my [CV](https://wenguangsun.github.io/assets/pdf/CV.pdf).
