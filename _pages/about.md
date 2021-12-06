@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Professor of Data Sciences and Operations
+description: Professor of Data Sciences and Operations, Marshall School of Business, University of Southern California
 
 profile:
   align: right
