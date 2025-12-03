@@ -6,7 +6,7 @@ description: Professor of Statistics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: >
     <p>Center for Data Science</p>
     <p>Zhejiang University</p>
